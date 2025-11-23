@@ -10,26 +10,24 @@
 
 ## 🧰 Tech Stack & Languages
 
-<!-- Icons for supported technologies -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,python,dart,cpp,bootstrap,tailwind,flutter,arduino,docker,git,github,vscode,visualstudio,eclipse,figma,linux,windows&perline=12" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,python,dart,cpp,bootstrap,tailwind,flutter,arduino,docker,git,github,vscode,visualstudio,eclipse,figma,linux,windows,neovim&perline=12" />
 </p>
 
-<!-- Labels for unsupported items -->
 <p align="center">
-  <strong>Other tools / frameworks:</strong> Blade · NetBeans · NeoVim · MySQL
+  <strong>Other tools / frameworks:</strong> Blade · NetBeans · MySQL
 </p>
 
 ---
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=erxanitea&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erxanitea&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=erxanitea&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
