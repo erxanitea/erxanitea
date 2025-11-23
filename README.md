@@ -44,7 +44,7 @@
 
 ### 📈 GitHub Stats
 
-![Era's GitHub stats](https://github-readme-stats.vercel.app/api?username=Era&show_icons=true&theme=radical)
+![Era's GitHub stats](https://github-readme-stats.vercel.app/api?username=erxanitea&show_icons=true&theme=radical)
 
 ---
 
