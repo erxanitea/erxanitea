@@ -11,7 +11,7 @@
 ## 🧰 Tech Stack & Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,python,dart,cpp,bootstrap,tailwind,flutter,arduino,docker,git,github,vscode,visualstudio,eclipse,figma,linux,windows,neovim&perline=12" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,python,dart,cpp,nodejs,bootstrap,tailwind,flutter,arduino,docker,git,github,vscode,visualstudio,eclipse,figma,linux,windows,neovim&perline=12" />
 </p>
 
 <p align="center">
@@ -35,9 +35,9 @@
 ## 🌟 About Me
 - 🔭 Working on **Campus Connect App** (Flutter), **Gear-Up Automotive System** (Laravel & MySQL), and **PHP/Blade Systems**  
 - 🌱 Learning **Advanced Web Development**, **Business Analytics**, **Data Analytics**, and **Machine Learning**  
-- 👩‍💻 Projects: [GitHub Repositories](https://github.com/YOUR_GITHUB_USERNAME)  
+- 👩‍💻 Projects: [GitHub Repositories](https://github.com/erxanitea)  
 - 📫 Reach me at: **erxan.official@gmail.com**  
-- 💬 Ask me about **PHP, Laravel, Flutter, Blade, MySQL, Git, C++, Dart, Python**  
+- 💬 Ask me about **PHP, Laravel, Flutter, Blade, MySQL, Git, C++, Dart, Python, Node.js**  
 - ⚡ Fun fact: I like **things that are cool**  
 
 ---
