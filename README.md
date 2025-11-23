@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 
 -->
 ![Era's GitHub stats](https://github-readme-stats.vercel.app/api?username=Era&show_icons=true&theme=radical)
+![Project Demo](https://link-to-your-gif-or-image.gif)
