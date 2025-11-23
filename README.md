@@ -1,6 +1,6 @@
 <!-- Top Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&height=200&color=0:8EC5FC,100:E0C3FC&text=Era%20%7C%20IT%20Student&fontSize=50&animation=fadeIn&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:8EC5FC,100:E0C3FC&text=Era%20%7C%20IT%20Student&fontSize=50&animation=fadeIn&fontColor=ffffff" />
 </p>
 
 <h2 align="center">Hi 👋, I'm Era</h2>
@@ -44,5 +44,5 @@
 
 <!-- Footer Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&height=120&color=0:E0C3FC,100:8EC5FC&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:E0C3FC,100:8EC5FC&section=footer" />
 </p>
