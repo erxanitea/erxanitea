@@ -46,10 +46,7 @@
 
 ### 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=erxanitea&show_icons=true&theme=github_dark" alt="Era's GitHub stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erxanitea&layout=compact&theme=github_dark" alt="Top Languages" height="180"/>
-</p>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
