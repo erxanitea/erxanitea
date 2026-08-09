@@ -3,9 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:8EC5FC,100:E0C3FC&text=Era%20%7C%20IT%20Student&fontSize=50&animation=fadeIn&fontColor=ffffff" />
 </p>
 
-<h2 align="center">Hi 👋, I'm Era</h2>
-<p align="center">A passionate IT Student from the Philippines 🚀</p>
-<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=CE4EF7&width=435&lines=Hi!+I'm+Era+Dumangcas;Introvert%2C+Likes+Black%2C+Recently+Love+Running+%3C3" alt="Typing SVG" /></a>
   <a href="https://github.com/erxanitea">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=erxanitea&theme=high-contrast" alt="Era's GitHub Activity Graph" />
   </a>
