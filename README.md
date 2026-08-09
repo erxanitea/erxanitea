@@ -5,6 +5,7 @@
 
 <h2 align="center">Hi 👋, I'm Era</h2>
 <p align="center">A passionate IT Student from the Philippines 🚀</p>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=erxanitea&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
