@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="68" viewBox="0 0 560 68" fill="none">
+  <defs>
+    <linearGradient id="card-bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#181512" />
+      <stop offset="50%" stop-color="#12100E" />
+      <stop offset="100%" stop-color="#1C1713" />
+    </linearGradient>
+    <linearGradient id="border-glow" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#C89666" stop-opacity="0.4" />
+      <stop offset="50%" stop-color="#E5CCA8" stop-opacity="0.85" />
+      <stop offset="100%" stop-color="#C89666" stop-opacity="0.35" />
+    </linearGradient>
+    <linearGradient id="btn-bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#D4A373" />
+      <stop offset="100%" stop-color="#BA8250" />
+    </linearGradient>
+  </defs>
+
+  <rect x="1" y="1" width="558" height="66" rx="14" fill="url(#card-bg)" stroke="url(#border-glow)" stroke-width="1.5" />
+
+  <g transform="translate(22, 14)">
+    <circle cx="5" cy="5" r="4" fill="#22C55E" />
+    <circle cx="5" cy="5" r="6.5" fill="#22C55E" fill-opacity="0.2" />
+    <text x="16" y="8.5" fill="#4ADE80" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="10.5" font-weight="700" letter-spacing="1.2">OPEN TO WORK</text>
+  </g>
+
+  <text x="22" y="49" fill="#F8F0E8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="14.5" font-weight="700" letter-spacing="-0.1">Available for Front-End, Analytics &amp; AI Roles</text>
+
+  <g transform="translate(346, 14)">
+    <rect width="194" height="40" rx="20" fill="url(#btn-bg)" />
+    <g transform="translate(14, 11)">
+      <path fill="#141210" d="M3.8 0a1.9 1.9 0 1 1 0 3.8 1.9 1.9 0 0 1 0-3.8ZM.4 5.1h3.4v11.4H.4V5.1ZM9.3 5.1c-1.9 0-2.8 1-3.2 1.8V5.1H2.7v11.4h3.4V10.2c0-1.7.8-2.7 2.4-2.7 1.5 0 1.9 1.1 1.9 2.7v6.3h3.4v-6.9c0-3.5-1.9-5.3-4.5-5.3Z" />
+    </g>
+    <text x="38" y="25" fill="#141210" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="700">Connect on LinkedIn</text>
+    <path fill="none" stroke="#141210" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" d="M172 20l3.5 3.5-3.5 3.5" />
+  </g>
+</svg>
