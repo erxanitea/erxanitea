@@ -48,7 +48,6 @@
         <li>📊 <b>Analytics &amp; AI:</b> Junior Business Analytics · AI Engineering</li>
         <li>📋 <b>Project Management:</b> Project Lead · Agile &amp; Scrum Sprints (Jira, Trello)</li>
         <li>☁️ <b>Community:</b> Marketing Volunteer @ <b>AWS User Group Davao</b></li>
-        <li>🦉 <b>Academic:</b> Former Communications @ <b>Data Owls (University of Mindanao)</b></li>
         <li>🏃 <b>Hobbies:</b> Distance running · Reading · Film</li>
         <li>🍵 <b>Philosophy:</b> Build things that are simple, reliable, and intuitive</li>
       </ul>
